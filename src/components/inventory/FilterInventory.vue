@@ -7,6 +7,7 @@
               <p class="text-2xl">Lista Inventario</p>
           </div>
           <div class="flex space-x-5">  
+              <button @click="this.$emit('open-modal-inventory')">Añadir Inventario</button>
               <button @click="this.$emit('open-modal-category')">Añadir Categoria</button>
               <button @click="this.$emit('open-modal-product')">Añadir Producto</button>
               <button>Reporte</button>
