@@ -12,19 +12,20 @@
         :showModalProduct="showModalProduct" 
         @close-modal-product="close_modal_product()">
     </ModalProduct>
-  <div>{{ 'home' }}</div>
+    <TableInventory></TableInventory>
 </template>
 
 <script>
 import FilterInventory from "../components/inventory/FilterInventory";
 import ModalCategory from "../components/inventory/ModalCategory";
 import ModalProduct from "../components/inventory/ModalProduct";
-
+import TableInventory from '../components/inventory/TableInventory'
 export default {    
     components:{
         FilterInventory,
         ModalCategory,
-        ModalProduct
+        ModalProduct,
+        TableInventory
     },
     data(){
         return {
