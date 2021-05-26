@@ -1,11 +1,11 @@
 <template>
-    <div class="overflow-x-auto">
-        <div class="bg-gray-100 flex items-center justify-center font-sans overflow-hidden">
+    <div class="overflow-x-auto static">
+        <div class="flex items-center justify-center font-sans overflow-hidden">
             <div class="w-full">
                 <div class="bg-white shadow-md rounded my-6">
                     <table class="min-w-max w-full table-auto">
                         <thead>
-                            <tr class="bg-gray-200 text-gray-600 uppercase text-sm leading-normal">
+                            <tr class="bg-gray-200 text-gray-500 uppercase text-sm leading-normal">
                                 <th class="py-3 px-6 text-left">Producto</th>
                                 <th class="py-3 px-6 text-left">Marca</th>
                                 <th class="py-3 px-6 text-center">Users</th>
@@ -38,9 +38,9 @@
                                 </td>
                                 <td class="py-3 px-6 text-center">
                                     <div class="flex items-center justify-center">
-                                        <img class="w-6 h-6 rounded-full border-gray-200 border transform hover:scale-125" src="https://randomuser.me/api/portraits/men/1.jpg"/>
-                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1 transform hover:scale-125" src="https://randomuser.me/api/portraits/women/2.jpg"/>
-                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1 transform hover:scale-125" src="https://randomuser.me/api/portraits/men/3.jpg"/>
+                                        <img class="w-6 h-6 rounded-full border-gray-200 border  hover:scale-125" src="https://randomuser.me/api/portraits/men/1.jpg"/>
+                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1  hover:scale-125" src="https://randomuser.me/api/portraits/women/2.jpg"/>
+                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1  hover:scale-125" src="https://randomuser.me/api/portraits/men/3.jpg"/>
                                     </div>
                                 </td>
                                 <td class="py-3 px-6 text-center">
@@ -86,9 +86,9 @@
                                 </td>
                                 <td class="py-3 px-6 text-center">
                                     <div class="flex items-center justify-center">
-                                        <img class="w-6 h-6 rounded-full border-gray-200 border transform hover:scale-125" src="https://randomuser.me/api/portraits/men/1.jpg"/>
-                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1 transform hover:scale-125" src="https://randomuser.me/api/portraits/women/2.jpg"/>
-                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1 transform hover:scale-125" src="https://randomuser.me/api/portraits/men/3.jpg"/>
+                                        <img class="w-6 h-6 rounded-full border-gray-200 border hover:scale-125" src="https://randomuser.me/api/portraits/men/1.jpg"/>
+                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1 hover:scale-125" src="https://randomuser.me/api/portraits/women/2.jpg"/>
+                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1 hover:scale-125" src="https://randomuser.me/api/portraits/men/3.jpg"/>
                                     </div>
                                 </td>
                                 <td class="py-3 px-6 text-center">
@@ -134,9 +134,9 @@
                                 </td>
                                 <td class="py-3 px-6 text-center">
                                     <div class="flex items-center justify-center">
-                                        <img class="w-6 h-6 rounded-full border-gray-200 border transform hover:scale-125" src="https://randomuser.me/api/portraits/men/1.jpg"/>
-                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1 transform hover:scale-125" src="https://randomuser.me/api/portraits/women/2.jpg"/>
-                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1 transform hover:scale-125" src="https://randomuser.me/api/portraits/men/3.jpg"/>
+                                        <img class="w-6 h-6 rounded-full border-gray-200 border  hover:scale-125" src="https://randomuser.me/api/portraits/men/1.jpg"/>
+                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1  hover:scale-125" src="https://randomuser.me/api/portraits/women/2.jpg"/>
+                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1  hover:scale-125" src="https://randomuser.me/api/portraits/men/3.jpg"/>
                                     </div>
                                 </td>
                                 <td class="py-3 px-6 text-center">
@@ -182,9 +182,9 @@
                                 </td>
                                 <td class="py-3 px-6 text-center">
                                     <div class="flex items-center justify-center">
-                                        <img class="w-6 h-6 rounded-full border-gray-200 border transform hover:scale-125" src="https://randomuser.me/api/portraits/men/1.jpg"/>
-                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1 transform hover:scale-125" src="https://randomuser.me/api/portraits/women/2.jpg"/>
-                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1 transform hover:scale-125" src="https://randomuser.me/api/portraits/men/3.jpg"/>
+                                        <img class="w-6 h-6 rounded-full border-gray-200 border  hover:scale-125" src="https://randomuser.me/api/portraits/men/1.jpg"/>
+                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1  hover:scale-125" src="https://randomuser.me/api/portraits/women/2.jpg"/>
+                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1  hover:scale-125" src="https://randomuser.me/api/portraits/men/3.jpg"/>
                                     </div>
                                 </td>
                                 <td class="py-3 px-6 text-center">
@@ -230,9 +230,9 @@
                                 </td>
                                 <td class="py-3 px-6 text-center">
                                     <div class="flex items-center justify-center">
-                                        <img class="w-6 h-6 rounded-full border-gray-200 border transform hover:scale-125" src="https://randomuser.me/api/portraits/men/1.jpg"/>
-                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1 transform hover:scale-125" src="https://randomuser.me/api/portraits/women/2.jpg"/>
-                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1 transform hover:scale-125" src="https://randomuser.me/api/portraits/men/3.jpg"/>
+                                        <img class="w-6 h-6 rounded-full border-gray-200 border  hover:scale-125" src="https://randomuser.me/api/portraits/men/1.jpg"/>
+                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1  hover:scale-125" src="https://randomuser.me/api/portraits/women/2.jpg"/>
+                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1  hover:scale-125" src="https://randomuser.me/api/portraits/men/3.jpg"/>
                                     </div>
                                 </td>
                                 <td class="py-3 px-6 text-center">
@@ -278,9 +278,9 @@
                                 </td>
                                 <td class="py-3 px-6 text-center">
                                     <div class="flex items-center justify-center">
-                                        <img class="w-6 h-6 rounded-full border-gray-200 border transform hover:scale-125" src="https://randomuser.me/api/portraits/men/1.jpg"/>
-                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1 transform hover:scale-125" src="https://randomuser.me/api/portraits/women/2.jpg"/>
-                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1 transform hover:scale-125" src="https://randomuser.me/api/portraits/men/3.jpg"/>
+                                        <img class="w-6 h-6 rounded-full border-gray-200 border  hover:scale-125" src="https://randomuser.me/api/portraits/men/1.jpg"/>
+                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1  hover:scale-125" src="https://randomuser.me/api/portraits/women/2.jpg"/>
+                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1  hover:scale-125" src="https://randomuser.me/api/portraits/men/3.jpg"/>
                                     </div>
                                 </td>
                                 <td class="py-3 px-6 text-center">
@@ -326,9 +326,9 @@
                                 </td>
                                 <td class="py-3 px-6 text-center">
                                     <div class="flex items-center justify-center">
-                                        <img class="w-6 h-6 rounded-full border-gray-200 border transform hover:scale-125" src="https://randomuser.me/api/portraits/men/1.jpg"/>
-                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1 transform hover:scale-125" src="https://randomuser.me/api/portraits/women/2.jpg"/>
-                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1 transform hover:scale-125" src="https://randomuser.me/api/portraits/men/3.jpg"/>
+                                        <img class="w-6 h-6 rounded-full border-gray-200 border  hover:scale-125" src="https://randomuser.me/api/portraits/men/1.jpg"/>
+                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1  hover:scale-125" src="https://randomuser.me/api/portraits/women/2.jpg"/>
+                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1  hover:scale-125" src="https://randomuser.me/api/portraits/men/3.jpg"/>
                                     </div>
                                 </td>
                                 <td class="py-3 px-6 text-center">
@@ -374,9 +374,9 @@
                                 </td>
                                 <td class="py-3 px-6 text-center">
                                     <div class="flex items-center justify-center">
-                                        <img class="w-6 h-6 rounded-full border-gray-200 border transform hover:scale-125" src="https://randomuser.me/api/portraits/men/1.jpg"/>
-                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1 transform hover:scale-125" src="https://randomuser.me/api/portraits/women/2.jpg"/>
-                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1 transform hover:scale-125" src="https://randomuser.me/api/portraits/men/3.jpg"/>
+                                        <img class="w-6 h-6 rounded-full border-gray-200 border  hover:scale-125" src="https://randomuser.me/api/portraits/men/1.jpg"/>
+                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1  hover:scale-125" src="https://randomuser.me/api/portraits/women/2.jpg"/>
+                                        <img class="w-6 h-6 rounded-full border-gray-200 border -m-1  hover:scale-125" src="https://randomuser.me/api/portraits/men/3.jpg"/>
                                     </div>
                                 </td>
                                 <td class="py-3 px-6 text-center">

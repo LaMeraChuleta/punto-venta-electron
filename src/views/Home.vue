@@ -4,7 +4,7 @@
         @open-modal-product="open_modal_product()"
     >
     </FilterInventory>
-    <ModalCategory 
+    <ModalCategory            
         :showModalCategory="showModalCategory" 
         @close-modal-category="close_modal_category()">
     </ModalCategory>

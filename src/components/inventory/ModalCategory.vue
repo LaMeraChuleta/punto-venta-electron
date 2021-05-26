@@ -1,5 +1,5 @@
 <template>    
-    <div v-if="showModalCategory" class="flex flex-col w-11/12 sm:w-5/6 lg:w-1/2 max-w-2xl mx-auto rounded-lg border border-gray-300">
+    <div v-if="showModalCategory" class="flex flex-col w-11/12 sm:w-5/6 lg:w-1/2 max-w-2xl mx-auto rounded-lg border border-gray-300 absolute inset-x-0 h-auto">
       <div class="flex flex-row justify-between p-6 bg-white border-b border-gray-200 rounded-tl-lg rounded-tr-lg">
         <p class="font-semibold text-gray-800">Nueva Categoria</p>
         <button @click="close_modal_diagnostic()">
